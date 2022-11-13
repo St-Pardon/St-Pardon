@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on EduTech Startups
 - 🤔 I’m looking for help with connecting with developers
 - 💬 Ask me about movies, series, javaScript, my personality
-- 📫 How to reach me: ...
+<!-- 📫 How to reach me: ... -->
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I find it difficult asking for help
 
