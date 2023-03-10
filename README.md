@@ -35,6 +35,6 @@
 
 ![St-Pardon's github stats](https://github-readme-stats.vercel.app/api?username=St-Pardon&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=St-Pardon&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=St-Pardon&layout=compact&text_color=daf7dc&bg_color=f4f4f4&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=St-Pardon&theme=dark)](https://git.io/streak-stats)
