@@ -1,44 +1,46 @@
-![](https://komarev.com/ghpvc/?username=St-Pardon&color=green)
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hi there! 👋 I'm  Onyedikachi a Full-Stack Software Engineer
 
+## 🚀 About Me
+I'm a passionate software engineer specializing in Node.js and TypeScript, with comprehensive expertise in full-stack development, DevOps, and cloud computing. I craft robust, scalable solutions that bridge innovative design with powerful functionality.
 
-<div align="center"><img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" /></div>
+## 🛠️ Tech Stack
 
+### Languages & Frameworks
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
+### Backend Technologies
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-<!-- 🔭 I’m currently working on School Management System API -->
-- 🌱 I’m currently learning Backend Engineering
-- 👯 I’m looking to collaborate on EduTech Startups
-- 🤔 I’m looking for help with connecting with developers
-- 💬 Ask me about movies, series, javaScript, my personality
-<!-- 📫 How to reach me: ... -->
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I find it difficult asking for help
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-Pipelines-007ACC?style=for-the-badge)
 
-<p align="center">
-<a href="https://twitter.com/st_Pardon" target="blank"><img align="center" src="https://img.icons8.com/color/512/twitter.png" alt="twitter icon" height="30" width="30" /></a>&nbsp;
-<a href="https://linkedin.com/in/onyedikachi-onu-374a8512a/" target="blank"><img align="center" src="https://img.icons8.com/color/512/linkedin.png" alt="linkedin icon" height="30" width="30" /></a>&nbsp;
-<a href="http://discord.com/users/St_Pardon#5798" target="blank"><img align="center" src="https://img.icons8.com/color/512/discord-logo.png" alt="discord icon" height="40" width="30" /></a>
-</p>
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=St-Pardon&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=St-pardon&layout=compact&theme=radical)
 
-___
-## Languages and Tools
-<p align="center">
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
-</p>
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/onyedikachi-onu-374a8512a/))
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/st_Pardon)
+[![Personal Website](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.St-Pardon.netlify.app)
+
+## 💡 Expertise Highlights
+- Full-stack development with TypeScript and Node.js
+- Microservices architecture
+- Cloud-native application design
+- CI/CD pipeline implementation
+- Performance optimization and scalability solutions
+
+## 🏆 Contributions & Learning
+Always exploring new technologies and contributing to open-source projects. Passionate about clean code, best practices, and continuous learning.
 
 ---
 
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px' align="center"> My Github Stats:
-
-![St-Pardon's github stats](https://github-readme-stats.vercel.app/api?username=St-Pardon&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=151515&bg_color=fefefe&hide=issues&count_private=true&include_all_commits=true)
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=St-Pardon&layout=compact&text_color=1f1f1f&bg_color=fefefe&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
-<br />
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=St-Pardon&theme=light)](https://git.io/streak-stats)
+⭐️ From [Onu Onyedikachi](https://github.com/St-Pardon)
